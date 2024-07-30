@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+    <channel id="PTSPORTTV1FHD">
+        <display-name>PT SPORT TV 1 FHD</display-name>
+    </channel>
+    <channel id="PT058SportTV1HD">
+        <display-name>PT058 Sport TV 1 HD</display-name>
+    </channel>
+    <channel id="PTSPORTTV2HD">
+        <display-name>PT SPORT TV 2 HD</display-name>
+    </channel>
+    <channel id="PT099SPORTTV2FHD">
+        <display-name>PT099 SPORT TV 2 FHD</display-name>
+    </channel>
+    <channel id="PTSPORTTV3HD">
+        <display-name>PT SPORT TV 3 HD</display-name>
+    </channel>
+    <channel id="PTElevenSports1FHD">
+        <display-name>PT Eleven Sports 1 FHD</display-name>
+    </channel>
+    <channel id="PTElevenSports2FHD">
+        <display-name>PT Eleven Sports 2 FHD</display-name>
+    </channel>
+    <channel id="PTELEVENSPORTS3HD">
+        <display-name>PT ELEVEN SPORTS 3 HD</display-name>
+    </channel>
+    <channel id="PTELEVENSPORTS4HD">
+        <display-name>PT ELEVEN SPORTS 4 HD</display-name>
+    </channel>
+    <channel id="PTELEVENSPORTS5HD">
+        <display-name>PT ELEVEN SPORTS 5 HD</display-name>
+    </channel>
+
+    <!-- Sample program data -->
+    <programme start="20240731060000 +0000" stop="20240731070000 +0000" channel="PTSPORTTV1FHD">
+        <title>Morning Sports</title>
+        <desc>Live sports updates and highlights.</desc>
+    </programme>
+    <programme start="20240731070000 +0000" stop="20240731080000 +0000" channel="PT058SportTV1HD">
+        <title>Football Highlights</title>
+        <desc>Highlights from the latest football matches.</desc>
+    </programme>
+    <programme start="20240731080000 +0000" stop="20240731090000 +0000" channel="PTSPORTTV2HD">
+        <title>Sports News</title>
+        <desc>Daily sports news and updates.</desc>
+    </programme>
+    <programme start="20240731090000 +0000" stop="20240731100000 +0000" channel="PT099SPORTTV2FHD">
+        <title>Live Football</title>
+        <desc>Live coverage of today's football match.</desc>
+    </programme>
+    <programme start="20240731100000 +0000" stop="20240731110000 +0000" channel="PTSPORTTV3HD">
+        <title>Sports Talk</title>
+        <desc>Discussions and analysis on recent sports events.</desc>
+    </programme>
+    <programme start="20240731110000 +0000" stop="20240731120000 +0000" channel="PTElevenSports1FHD">
+        <title>Basketball Highlights</title>
+        <desc>Highlights from the latest basketball games.</desc>
+    </programme>
+    <programme start="20240731120000 +0000" stop="20240731130000 +0000" channel="PTElevenSports2FHD">
+        <title>Sports Highlights</title>
+        <desc>Compilation of highlights from various sports.</desc>
+    </programme>
+    <programme start="20240731130000 +0000" stop="20240731140000 +0000" channel="PTELEVENSPORTS3HD">
+        <title>Evening Sports</title>
+        <desc>Evening sports news and updates.</desc>
+    </programme>
+    <programme start="20240731140000 +0000" stop="20240731150000 +0000" channel="PTELEVENSPORTS4HD">
+        <title>Live Tennis</title>
+        <desc>Live coverage of today's tennis match.</desc>
+    </programme>
+    <programme start="20240731150000 +0000" stop="20240731160000 +0000" channel="PTELEVENSPORTS5HD">
+        <title>Sports Recap</title>
+        <desc>Recap of the day's major sports events.</desc>
+    </programme>
+</tv>
